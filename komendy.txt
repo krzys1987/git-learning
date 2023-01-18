@@ -1,0 +1,8 @@
+krzys@DESKTOP-V7JFC2O MINGW64 ~/OneDrive/Documents/Kodilla/GitTutorial/learning-git-2/git-learning (master)
+$ node_modules/.bin/html-validate ~/OneDrive/Documents/Kodilla/GitTutorial/learning-git-2/git-learning/index.html
+
+C:\Users\krzys\OneDrive\Documents\Kodilla\GitTutorial\learning-git-2\git-learning\index.html
+  1:1  error  failed to tokenize "<!DOCTYPE=...", state TEXT failed to consume data or change state  parser-error
+
+✖ 1 problem (1 error, 0 warnings)
+
