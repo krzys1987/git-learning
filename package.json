@@ -19,6 +19,11 @@
   "description": "",
   "devDependencies": {
     "browser-sync": "^2.27.11",
-    "html-validate": "^7.13.1"
+    "html-validate": "^7.13.1",
+    "run-all": "^1.0.1",
+    "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "touch-cli": "^0.0.1"
   }
 }
